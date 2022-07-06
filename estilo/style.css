@@ -1,0 +1,74 @@
+@charset 'UTF-8';
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header {
+	text-align: center;
+	padding: 10px;
+	background-color: rgba(6, 6, 6, 0.9);
+}
+header > h1{
+	color: rgba(248, 254, 255, 1);
+}
+main {
+	background-color: rgba(238, 238, 240, 0.8);
+}
+main h2{
+	color: rgba(6, 6, 6, 0.9);
+}
+.expandir{
+	padding: 100px;
+	text-align: center;
+	color: rgba(248, 254, 255, 1);
+}
+.bg-black{
+	margin: 20px;
+	padding: 120px;
+	border-radius: 20px;
+	background-color: rgba(6, 6, 6, 0.9);
+}
+#div-projetos{
+	margin: 5px;
+}
+#div-projetos > div {
+	display: inline-block;
+}
+#proh2{
+	margin-top: -50px;
+	padding-bottom: 20px;
+}
+.min-expandir{
+	padding: 30px;
+	text-align: center;
+	background-color: rgba(6, 6, 6, 0.9);
+}
+.min-expandir > div {
+	padding: 30px;
+	text-align: center;
+}
+.min-expandir a{
+	padding: 20px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	color: rgba(248, 254, 255, 1);
+}
+#div-social > div{
+	display: inline-block;
+}
+#div-about-me{
+	margin: 0px;
+	background-color: rgba(6, 6, 6, 0.9);
+}
+.white-h2{
+	color: rgba(248, 254, 255, 1);
+}
+#div-about-me p{
+	color: rgba(248, 254, 255, 1);
+}
+footer{
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
